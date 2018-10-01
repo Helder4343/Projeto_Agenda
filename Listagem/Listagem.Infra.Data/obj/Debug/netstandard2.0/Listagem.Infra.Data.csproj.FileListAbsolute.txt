@@ -1,0 +1,14 @@
+D:\Visual_Studio\Listagem\Listagem.Infra.Data\bin\Debug\netstandard2.0\Listagem.Infra.Data.deps.json
+D:\Visual_Studio\Listagem\Listagem.Infra.Data\bin\Debug\netstandard2.0\Listagem.Infra.Data.dll
+D:\Visual_Studio\Listagem\Listagem.Infra.Data\bin\Debug\netstandard2.0\Listagem.Infra.Data.pdb
+D:\Visual_Studio\Listagem\Listagem.Infra.Data\bin\Debug\netstandard2.0\Listagem.Domain.Core.dll
+D:\Visual_Studio\Listagem\Listagem.Infra.Data\bin\Debug\netstandard2.0\Listagem.Domain.dll
+D:\Visual_Studio\Listagem\Listagem.Infra.Data\bin\Debug\netstandard2.0\Listagem.Domain.pdb
+D:\Visual_Studio\Listagem\Listagem.Infra.Data\bin\Debug\netstandard2.0\Listagem.Domain.Core.pdb
+D:\Visual_Studio\Listagem\Listagem.Infra.Data\obj\Debug\netstandard2.0\Listagem.Infra.Data.csprojAssemblyReference.cache
+D:\Visual_Studio\Listagem\Listagem.Infra.Data\obj\Debug\netstandard2.0\Listagem.Infra.Data.csproj.CoreCompileInputs.cache
+D:\Visual_Studio\Listagem\Listagem.Infra.Data\obj\Debug\netstandard2.0\Listagem.Infra.Data.AssemblyInfoInputs.cache
+D:\Visual_Studio\Listagem\Listagem.Infra.Data\obj\Debug\netstandard2.0\Listagem.Infra.Data.AssemblyInfo.cs
+D:\Visual_Studio\Listagem\Listagem.Infra.Data\obj\Debug\netstandard2.0\Listagem.Infra.Data.csproj.CopyComplete
+D:\Visual_Studio\Listagem\Listagem.Infra.Data\obj\Debug\netstandard2.0\Listagem.Infra.Data.dll
+D:\Visual_Studio\Listagem\Listagem.Infra.Data\obj\Debug\netstandard2.0\Listagem.Infra.Data.pdb

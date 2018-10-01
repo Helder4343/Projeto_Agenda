@@ -1,0 +1,12 @@
+D:\Visual_Studio\Listagem\Listagem.Domain\bin\Debug\netstandard2.0\Listagem.Domain.deps.json
+D:\Visual_Studio\Listagem\Listagem.Domain\bin\Debug\netstandard2.0\Listagem.Domain.dll
+D:\Visual_Studio\Listagem\Listagem.Domain\obj\Debug\netstandard2.0\Listagem.Domain.csprojAssemblyReference.cache
+D:\Visual_Studio\Listagem\Listagem.Domain\obj\Debug\netstandard2.0\Listagem.Domain.csproj.CoreCompileInputs.cache
+D:\Visual_Studio\Listagem\Listagem.Domain\obj\Debug\netstandard2.0\Listagem.Domain.AssemblyInfoInputs.cache
+D:\Visual_Studio\Listagem\Listagem.Domain\obj\Debug\netstandard2.0\Listagem.Domain.AssemblyInfo.cs
+D:\Visual_Studio\Listagem\Listagem.Domain\bin\Debug\netstandard2.0\Listagem.Domain.pdb
+D:\Visual_Studio\Listagem\Listagem.Domain\bin\Debug\netstandard2.0\Listagem.Domain.Core.dll
+D:\Visual_Studio\Listagem\Listagem.Domain\bin\Debug\netstandard2.0\Listagem.Domain.Core.pdb
+D:\Visual_Studio\Listagem\Listagem.Domain\obj\Debug\netstandard2.0\Listagem.Domain.csproj.CopyComplete
+D:\Visual_Studio\Listagem\Listagem.Domain\obj\Debug\netstandard2.0\Listagem.Domain.dll
+D:\Visual_Studio\Listagem\Listagem.Domain\obj\Debug\netstandard2.0\Listagem.Domain.pdb
